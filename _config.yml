@@ -1,7 +1,4 @@
 title: Shamim Ahmed
-Logo: sam.jpg
-description: "Personal portfolio and blog of Shamim Ahmed, sharing ideas, projects, and stories."
-theme: jekyll-theme-minimal
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,3 +49,7 @@ theme: jekyll-theme-minimal
     </footer>
 </body>
 </html>
+Logo: sam.jpg
+description: "Personal portfolio and blog of Shamim Ahmed, sharing ideas, projects, and stories."
+theme: jekyll-theme-minimal
+
