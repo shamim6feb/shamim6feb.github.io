@@ -1,55 +1,29 @@
 title: Shamim Ahmed
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shamim Ahmed - Research Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Shamim Ahmed</h1>
-        <p>Professor (Assistant), Department of CSE, BUBT</p>
-        <nav>
-            <ul>
-                <li><a href="#bio">Bio</a></li>
-                <li><a href="#publications">Publications</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <section id="bio">
-        <h2>About Me</h2>
-        <p>Professor (Assistant) in the Department of Computer Science and Engineering at Bangladesh University of Business and Technology, Dhaka.</p>
-        <p>My research interests include AI, Machine Learning, Explainable AI, and Secure Systems.</p>
-    </section>
-
-    <section id="publications">
-        <h2>Publications</h2>
-        <ul>
-            <li><a href="https://doi.org/10.1109/ACCESS.2024.3422319" target="_blank">A Comparative Analysis of LIME and SHAP Interpreters</a> - IEEE Access, 2025</li>
-            <li><a href="https://doi.org/10.34104/ajeit.022.0950106" target="_blank">Fake News Detection using ML</a> - Aust. J. Eng. Innov. Technol., 2022</li>
-            <li><a href="https://doi.org/10.1109/ECCE57851.2023.10101503" target="_blank">Deep CNN Model for Brain Tumor Detection</a> - ECCE, 2023</li>
-        </ul>
-        <p><a href="https://scholar.google.com/citations?user=PMfknEIAAAAJ&hl=en" target="_blank">View all publications on Google Scholar</a></p>
-    </section>
-
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:shamim.6feb@gmail.com">shamim.6feb@gmail.com</a></p>
-        <p>Phone: +8801672917779</p>
-        <p>Website: <a href="https://cse.bubt.edu.bd/facultydetails/22/" target="_blank">Faculty Profile</a></p>
-        <p>ORCID: <a href="https://orcid.org/0000-0002-9968-4128" target="_blank">0000-0002-9968-4128</a></p>
-    </section>
-
-    <footer>
-        <p>&copy; 2025 Shamim Ahmed. All rights reserved.</p>
-    </footer>
-</body>
-</html>
 Logo: sam.jpg
-description: "Personal portfolio and blog of Shamim Ahmed, sharing ideas, projects, and stories."
+description: "RESEARCH PROFILE
+
+
+Mr. Shamim Ahmed
+Professor (Assistant)
+Department of Computer Science and Engineering (CSE)
+Bangladesh University of Business and Technology
+Dhaka-1216, Bangladesh.
+
+
+Mobile	+8801672917779
+Email	shamim.6feb@gmail.com 
+shamim.a@bubt.edu.bd
+
+Web	https://cse.bubt.edu.bd/facultydetails/22/
+
+ORCID	0000-0002-9968-4128
+Google Scholar	https://scholar.google.com/citations?user=PMfknEIAAAAJ&hl=en
+
+ResearchGate	https://www.researchgate.net/profile/Shamim-Ahmed-38/research
+
+Web of Science	https://www.webofscience.com/wos/author/record/AGR-5672-2022
+
+
+"
 theme: jekyll-theme-minimal
 
